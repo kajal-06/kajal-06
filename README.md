@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kajal Sharma
+- 👀 I’m interested in Front End Technologies
+- 🌱 I’m currently learning Web Technologies
