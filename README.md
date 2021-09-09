@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Kajal Sharma.
 - 👀 I’m interested in Front End Technologies.
-- You can email me kajalsharma6398@gmail.com
+- Here's my Portfolio - https://devkajal.netlify.app/
+- Connect with me here - https://twitter.com/dev_kajaljal
